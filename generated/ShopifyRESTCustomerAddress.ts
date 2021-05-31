@@ -1,0 +1,16 @@
+export interface ShopifyRESTCustomerAddress {
+	address1: '1 Rue des Carrieres'
+	address2: 'Suite 1234'
+	city: 'Montreal'
+	country: 'Canada'
+	country_code: 'CA'
+	country_name: 'Canada'
+	company: 'Fancy Co.'
+	first_name: 'Samuel'
+	last_name: 'de Champlain'
+	name: 'Samuel de Champlain'
+	phone: '819-555-5555'
+	province: 'Quebec'
+	province_code: 'QC'
+	zip: 'G1R 4P5'
+}
